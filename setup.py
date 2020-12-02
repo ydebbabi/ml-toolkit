@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ml-toolkit",
+    name="ml_toolkit",
     version="0.0.1",
     author="Yacine Debbabi",
     author_email="ydebbabi@gmail.com",
-    description="A package for ML tooling",
+    description="A package for convenient ML tooling",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ydebbabi/ml-toolkit",
+    url="https://github.com/ydebbabi/ml_toolkit",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
