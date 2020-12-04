@@ -12,7 +12,7 @@ def smooth1D(x_in, y_in, sigma=None, x_grid_size=100):
     plt.plot(x_g, y_hat, 'b-')
     """
     
-    if type(x_in) is not np.array:
+    if type(x_in) is not np.ndarray:
         x_in = x_in.values
         y_in = y_in.values
     
