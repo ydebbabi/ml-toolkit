@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Load the data}{}% 1
+\BOOKMARK [1][-]{section.2}{Build a data processor}{}% 2
+\BOOKMARK [1][-]{section.3}{Implement the data processing logic}{}% 3
+\BOOKMARK [1][-]{section.4}{Engineer predictive features}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Classification}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Regression}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{For all problems}{section.4}% 7
+\BOOKMARK [1][-]{section.5}{Fit and diagnostic a linear model}{}% 8
+\BOOKMARK [1][-]{section.6}{Stack model predictions}{}% 9

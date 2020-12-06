@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Model and OLS estimators}{}% 1
+\BOOKMARK [1][-]{section.2}{Optimality of OLS}{}% 2
+\BOOKMARK [1][-]{section.3}{Univariate regression}{}% 3
+\BOOKMARK [1][-]{section.4}{Regression with correlated predictors}{}% 4
+\BOOKMARK [1][-]{section.5}{Common data issues}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Non-normality of residuals}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Multicollinearity}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.3}{Outliers}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.4}{Heteroscedasticity}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.5}{Autocorrelation of residuals}{section.5}% 10
+\BOOKMARK [1][-]{section.6}{Shrinkage}{}% 11
+\BOOKMARK [2][-]{subsection.6.1}{Ridge}{section.6}% 12
+\BOOKMARK [2][-]{subsection.6.2}{Lasso}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.3}{Shrinkage estimators as Bayesian estimates}{section.6}% 14
+\BOOKMARK [1][-]{section.7}{Generalized least squares}{}% 15
+\BOOKMARK [1][-]{section.8}{Appendix}{}% 16
+\BOOKMARK [2][-]{subsection.8.1}{Standard laws}{section.8}% 17
+\BOOKMARK [2][-]{subsection.8.2}{Central limit theorem}{section.8}% 18
+\BOOKMARK [2][-]{subsection.8.3}{Type I / II error}{section.8}% 19
+\BOOKMARK [2][-]{subsection.8.4}{Cochran's theorem}{section.8}% 20
+\BOOKMARK [2][-]{subsection.8.5}{Gram-Schmidt orthogonalization}{section.8}% 21

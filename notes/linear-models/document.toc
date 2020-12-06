@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Model and OLS estimators}{1}{section.1}%
+\contentsline {section}{\numberline {2}Optimality of OLS}{3}{section.2}%
+\contentsline {paragraph}{Gauss-Markov theorem.}{3}{section*.2}%
+\contentsline {paragraph}{Proof.}{3}{section*.3}%
+\contentsline {section}{\numberline {3}Univariate regression}{4}{section.3}%
+\contentsline {section}{\numberline {4}Regression with correlated predictors}{4}{section.4}%
+\contentsline {section}{\numberline {5}Common data issues}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Non-normality of residuals}{4}{subsection.5.1}%
+\contentsline {paragraph}{Consequences.}{4}{section*.4}%
+\contentsline {paragraph}{Detection.}{5}{section*.5}%
+\contentsline {subsection}{\numberline {5.2}Multicollinearity}{5}{subsection.5.2}%
+\contentsline {paragraph}{Consequences}{5}{section*.6}%
+\contentsline {paragraph}{Detection}{5}{section*.7}%
+\contentsline {paragraph}{How to handle this}{6}{section*.8}%
+\contentsline {subsection}{\numberline {5.3}Outliers}{6}{subsection.5.3}%
+\contentsline {paragraph}{Feature outliers.}{6}{section*.9}%
+\contentsline {paragraph}{Handling response/feature outliers.}{7}{section*.10}%
+\contentsline {paragraph}{Residual outliers.}{7}{section*.11}%
+\contentsline {paragraph}{Diagnostics tool.}{7}{section*.12}%
+\contentsline {subsection}{\numberline {5.4}Heteroscedasticity}{7}{subsection.5.4}%
+\contentsline {paragraph}{Consequences}{8}{section*.13}%
+\contentsline {paragraph}{How to handle this}{8}{section*.14}%
+\contentsline {subsection}{\numberline {5.5}Autocorrelation of residuals}{8}{subsection.5.5}%
+\contentsline {paragraph}{Consequences}{8}{section*.15}%
+\contentsline {section}{\numberline {6}Shrinkage}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Ridge}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Lasso}{9}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Shrinkage estimators as Bayesian estimates}{9}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Generalized least squares}{9}{section.7}%
+\contentsline {section}{\numberline {8}Appendix}{10}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Standard laws}{10}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Central limit theorem}{10}{subsection.8.2}%
+\contentsline {paragraph}{Theorem.}{10}{section*.16}%
+\contentsline {paragraph}{Proof.}{10}{section*.17}%
+\contentsline {subsection}{\numberline {8.3}Type I / II error}{11}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Cochran's theorem}{11}{subsection.8.4}%
+\contentsline {paragraph}{Theorem.}{11}{section*.18}%
+\contentsline {paragraph}{Notes.}{11}{section*.19}%
+\contentsline {paragraph}{Proof.}{11}{section*.20}%
+\contentsline {subsection}{\numberline {8.5}Gram-Schmidt orthogonalization}{11}{subsection.8.5}%
