@@ -1,9 +1,0 @@
-\contentsline {section}{\numberline {1}Load the data}{1}{section.1}
-\contentsline {section}{\numberline {2}Build a data processor}{1}{section.2}
-\contentsline {section}{\numberline {3}Implement the data processing logic}{2}{section.3}
-\contentsline {section}{\numberline {4}Engineer predictive features}{2}{section.4}
-\contentsline {subsection}{\numberline {4.1}Classification}{2}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Regression}{3}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}For all problems}{3}{subsection.4.3}
-\contentsline {section}{\numberline {5}Fit and diagnostic a linear model}{3}{section.5}
-\contentsline {section}{\numberline {6}Stack model predictions}{4}{section.6}
